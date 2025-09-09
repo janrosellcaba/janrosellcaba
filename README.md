@@ -1,16 +1,53 @@
-## Hi there 👋
+### Hi, I'm Jan Rosell 👋
 
-<!--
-**janrosellcaba/janrosellcaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer, entrepreneur, and Computer Science student based in Barcelona.
 
-Here are some ideas to get you started:
+As the Co-founder & CEO of **Express My Health**, I'm passionate about building technology that solves real-world problems. I thrive on turning complex challenges into clean, efficient, and scalable software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Tech Stack
+
+<p>
+  <strong>Languages:</strong>
+  <br>
+  <code>Python</code> 
+  <code>TypeScript</code>
+  <code>JavaScript</code>
+  <code>C++</code>
+  <code>SQL</code>
+</p>
+
+<p>
+  <strong>Frontend:</strong>
+  <br>
+  <code>Angular</code>
+  <code>React</code>
+  <code>React Native</code>
+  <code>HTML/CSS</code>
+</p>
+
+<p>
+  <strong>Backend & APIs:</strong>
+  <br>
+  <code>Node.js</code>
+  <code>REST APIs</code>
+  <code>Web Sockets</code>
+</p>
+
+<p>
+  <strong>Concepts & Tools:</strong>
+  <br>
+  <code>Software Architecture</code>
+  <code>Project Management</code>
+  <code>Linux</code>
+</p>
+
+---
+
+### Connect with me
+
+<p>
+  <a href="https://janrosell.com">Portfolio</a> ⋄ 
+  <a href="https://www.linkedin.com/in/janrosell/">LinkedIn</a>
+</p>
