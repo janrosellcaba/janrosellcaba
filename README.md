@@ -2,7 +2,7 @@
 
 I'm a Software Developer, entrepreneur, and Computer Science student based in Barcelona.
 
-As the Co-founder & CEO of **Express My Health**, I'm passionate about building technology that solves real-world problems. I thrive on turning complex challenges into clean, efficient, and scalable software solutions.
+As the Co-founder @ **Express My Health**, I'm passionate about building technology that solves real-world problems. I thrive on turning complex challenges into clean, efficient, and scalable software solutions.
 
 ---
 
@@ -11,8 +11,8 @@ As the Co-founder & CEO of **Express My Health**, I'm passionate about building 
 <p>
   <strong>Languages:</strong>
   <br>
-  <code>Python</code> 
   <code>TypeScript</code>
+  <code>Python</code> 
   <code>JavaScript</code>
   <code>C++</code>
   <code>SQL</code>
@@ -38,8 +38,8 @@ As the Co-founder & CEO of **Express My Health**, I'm passionate about building 
 <p>
   <strong>Concepts & Tools:</strong>
   <br>
-  <code>Software Architecture</code>
   <code>Project Management</code>
+  <code>Software Architecture</code>
   <code>Linux</code>
 </p>
 
