@@ -1,47 +1,8 @@
 ### Hi, I'm Jan Rosell 👋
 
-I'm a Software Developer, entrepreneur, and Computer Science student based in Barcelona.
+I'm a Software & Data Engineer and Entrepreneur based in Barcelona, with a Computer Science Engineering degree from UPC.
 
-As the Co-founder @ **Express My Health**, I'm passionate about building technology that solves real-world problems. I thrive on turning complex challenges into clean, efficient, and scalable software solutions.
-
----
-
-### My Tech Stack
-
-<p>
-  <strong>Languages:</strong>
-  <br>
-  <code>TypeScript</code>
-  <code>Python</code> 
-  <code>JavaScript</code>
-  <code>C++</code>
-  <code>SQL</code>
-</p>
-
-<p>
-  <strong>Frontend:</strong>
-  <br>
-  <code>Angular</code>
-  <code>React</code>
-  <code>React Native</code>
-  <code>HTML/CSS</code>
-</p>
-
-<p>
-  <strong>Backend & APIs:</strong>
-  <br>
-  <code>Node.js</code>
-  <code>REST APIs</code>
-  <code>Web Sockets</code>
-</p>
-
-<p>
-  <strong>Concepts & Tools:</strong>
-  <br>
-  <code>Project Management</code>
-  <code>Software Architecture</code>
-  <code>Linux</code>
-</p>
+As the Co-founder @ **[Express My Health](expressmyhealth.com)**, I'm passionate about building technology that solves real-world problems. I thrive on turning complex challenges into clean, efficient, and scalable software solutions.
 
 ---
 
@@ -49,5 +10,8 @@ As the Co-founder @ **Express My Health**, I'm passionate about building technol
 
 <p>
   <a href="https://janrosell.com">Portfolio</a> ⋄ 
-  <a href="https://www.linkedin.com/in/janrosell/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/janrosell/">Linkedin</a> ⋄ 
+  <a href="mailto:jan@janrosell.com">jan@janrosell.com</a>
 </p>
+
+*I invite you to have a look at my repositories!*
